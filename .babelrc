@@ -1,0 +1,8 @@
+{
+    "presets": [
+        //Compila es y es6
+        "@babel/preset-env",
+        //Compila JSX y React
+        "@babel/preset-react"
+    ]
+}
